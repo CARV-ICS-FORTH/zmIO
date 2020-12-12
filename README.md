@@ -8,4 +8,6 @@ If you don't have the `libaio` header files installed, you should put `libaio.h`
 
 For more information execute: `./zmIO --help`
 
+---
+
 **This code is solely the property of FORTH_ICS and is provided under a License from the Foundation of Research and Technology - Hellas (FORTH), Institute of Computer Science (ICS), Greece. Downloading this software implies accepting the [provided license](zmIO_license.pdf).**
